@@ -1,6 +1,6 @@
 # Plane
 - Server folder runs on the server.
-- Others run on folder.
+- Others are client-end.
 
 > 
 
