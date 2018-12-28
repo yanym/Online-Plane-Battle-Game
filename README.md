@@ -1,6 +1,6 @@
 # Plane
 - Server folder runs on the server.
-- Other runs on folder.
+- Others run on folder.
 
 > 
 
